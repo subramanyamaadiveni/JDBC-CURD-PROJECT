@@ -1,4 +1,4 @@
-                                                                 JDBC Console Project - CRUD Operations
+                            JDBC Console Project - CRUD Operations
 
 Description: Developed a console-based application using Java Database Connectivity (JDBC) to perform Create, Read, Update, and Delete (CRUD) operations on a relational database. The project demonstrates a fundamental understanding of JDBC and its use in connecting and interacting with databases.
 
